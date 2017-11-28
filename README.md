@@ -13,3 +13,7 @@ Alexa Skill where I mostly dispense the wisdom I've learned in my lifetime. Or m
 - religion
 
 ### Sample Utterances (questions)
+
+
+## Disclaimer
+I'm not sure I'm the expert of anything, so this skill should be considered for entertainment purposes only. 
