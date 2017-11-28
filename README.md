@@ -4,12 +4,15 @@ Alexa Skill where I mostly dispense the wisdom I've learned in my lifetime. Or m
 ## Things you can ask
 
 ### Categories
-- life
-- career
+Since I'm a software engineer, I will probably be able to best answer these topics: 
 - programming
-- parenting
+- career
+
+Since I have other experiences that you might benefit from, however, I will also answer questions on these topics:
+- life
 - love
-- politics 
+- parenting
+- politics
 - religion
 
 ### Sample Utterances (questions)
